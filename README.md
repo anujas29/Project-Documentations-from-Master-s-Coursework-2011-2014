@@ -20,12 +20,17 @@ Our project is concerned with chemical reactions and their simulation. For this 
  E-COP system is a COP management system used to fill the gaps between public & police. By E-COP system Indian people can put their FIR online to any police station in India. Aim of this project is increasing interaction between Indian citizens and Indian Police. In India most of people are fear to lodge FIR in police station because of that we need a police website where we can securely lodge FIRs. As an Introduction to our project we can say that we are going to build a project which is a online police website. In our website we give the feature of lodge FIRs, also we can see workflow or investigation of the particular FIR. We are trying to make our website secure. Our main aim is to fill the gaps between Indian people & police. Both can keep in contact through online.
  
  Front End: PHP Version 5.2.6, JavaScript
+ 
  Back End:  MYSQL 5.0.51b
+ 
  Deployment Environment: WAMPSEVER 2.0, Apache 2.2.8
+ 
 The website can be best viewed in Flash enable browser like Google chrome, Mozilla Firefox browsers.
 
 # 4. LIBRARY MANAGEMENT
+
 Front End : VB.Net implemented in Visual Studio 2008
+
 Back End : My SQL
 
 Library Management System is a software application to maintain the records related to Book Purchase, Stock Maintenance, Book Search, Catalogue, Book issue, Book returns, Fine Collection, and all necessary requirements for the Library to manage day to day operations. The main objective of the application is to automate the existing system of manually the records of the Book Issue, Book Return from the student, Stock Maintenance, Catalogue and Book Search to be computerised. So that the Book Issue, Return Searching will be faster. The library management system is designed and developed for a receipt and issuance of books in the library analogue with the student’s details.
@@ -33,5 +38,7 @@ Library Management System is a software application to maintain the records rela
 # 5. n-queen Promblem
 
 This is a recursive algorithm strategy called backtracking. A backtracking algorithm tries to build a solution to a computational problem incrementally. Whenever the algorithm needs to decide between two alternatives to the next component of the solution, it simply tries both options recursively.
+
 Front end software : Turbo C
+
 User interface : CGI
